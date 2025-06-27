@@ -1,0 +1,10 @@
+transformers
+datasets
+peft
+trl
+accelerate
+bitsandbytes
+evaluate
+lm-eval
+huggingface_hub
+torch

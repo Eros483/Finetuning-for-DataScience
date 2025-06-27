@@ -1,0 +1,18 @@
+# Model artifacts
+*.gguf
+*.safetensors
+*.pt
+*.bin
+
+# Data files
+*.jsonl
+*.csv
+*.parquet
+
+# Directories
+models/
+processed-data/
+
+# llama.cpp clone
+llama.cpp/
+/notebooks/unsloth_compiled_cache/
